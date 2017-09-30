@@ -1,3 +1,1 @@
-This is test document.
-
-update this document.
+10 minutes to pandas, addr: http://pandas.pydata.org/pandas-docs/stable/10min.html
